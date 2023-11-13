@@ -1,0 +1,10 @@
+hari,44,670 
+sree,59,56
+anu,67,123
+kavya,30,44
+anna,91,70
+kishand,234,67
+manuel,890,6990
+madav,89,456
+nazar,99,69
+shafeeq,635,26

@@ -1,0 +1,41 @@
+body{
+    background-color: brown;
+}
+
+/* h1{color: aqua;} */
+
+/* #first{
+    color:#0e4f44 ;
+}
+
+#second{
+    color:#4a2537 ;
+} */
+
+.item{
+    color: aqua;
+    text-decoration: line-through;
+}
+
+.item2{
+    color: yellow;
+    text-decoration: underline;
+}
+/* overline=text nte mukalil koodi line */
+/* text decoration colour:......; */
+
+.list-item li{
+    text-decoration: underline;
+    color: beige;
+}
+
+.main-head h1{    
+    color: azure;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+.main-head h1:nth-child(1){
+    color: blueviolet;
+}
+/* n th child vachitt cheyyunath */

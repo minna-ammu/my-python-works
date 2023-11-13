@@ -1,0 +1,20 @@
+.row{
+    width: 80%;
+    height: 400px;
+    background-color: aliceblue;
+    border: 2px solid chartreuse;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* flex-start...flex-end */
+    /* space-between...lft nd rgt ozhike */
+    /* space-evenly...equal space */
+    /* justify content for horizontal values.. */
+}
+
+.col{
+    width: 20%;
+    height: 100px;
+    background-color: violet;
+    border: 2px solid navy;
+}

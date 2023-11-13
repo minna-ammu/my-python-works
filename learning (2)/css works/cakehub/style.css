@@ -1,0 +1,52 @@
+.main-head{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.item{
+    width: 300px;
+   height: 300px;
+    border: 1px solid black;
+}
+
+/* min-height....max-width */
+
+.clr-code1{
+    background-color: aqua;
+}
+.clr-code2{
+    background-color: aquamarine;
+}
+.clr-code3{
+    background-color: bisque;
+}
+
+/*  */
+.row{
+    width: 400px;
+    height: 360px;
+    border: 4px solid coral;
+    background-color: yellowgreen;
+}
+
+.col{
+    width: 50%;
+    height: 200px;
+    border: 2px solid cadetblue;
+    background-color: violet;
+}
+
+.col-2{
+    width: 45vw;
+    height: 100px;
+    border: 6px solid  cyan;
+    background-color: azure;
+
+}
+
+   /*  % um px nteyum difference*/
+
+   /*  */
